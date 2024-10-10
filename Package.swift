@@ -21,7 +21,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/vmanot/Swallow.git", branch: "master")
+        .package(url: "https://github.com/aksh1t/Swallow.git", branch: "master")
     ],
     targets: [
         .target(
