@@ -12,6 +12,4 @@ jobs:
       uses: PreternaturalAI/github-action/preternatural-build@main
       with:
         xcode-version: '16'
-        build_all_platforms: 'true'
-        architectures: 'arm64'
         configuration: 'debug'
